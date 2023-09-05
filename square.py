@@ -99,7 +99,7 @@ class Grid:
     def add(self, pos):
         square = self.squares[pos]
         lower = 1
-        upper = 5
+        upper = 7
 
         # row
         c = self.fives[square.x].check()
