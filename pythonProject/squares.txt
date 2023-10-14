@@ -1,0 +1,304 @@
+1|Feed a Dondogo
+1|Golden Apple
+1|Any Enduring Meal
+1|Any Mighty Meal
+1|Any Tough Meal
+1|Any Energizing Meal
+1|Any Hasty Meal
+1|Any Hearty Meal
+1|Any Spicy Meal
+1|Any Chilly Meal
+1|Fireproof Elixir
+1|Bright Elixir
+1|Fairy Tonic
+1|Enduring Elixir
+1|Sneaky Elixir
+1|Sticky Elixir
+1|Electro Elixir
+1|Mighty Elixir
+1|Spicy Elixir
+1|Chilly Elixir
+1|Seafood Fried Rice
+1|Meat and Rice Bowl
+1|Omelet
+1|Roasted Endura Carrot
+1|Toasty Zapshroom
+1|Silent Princess
+1|Diamond
+1|Main Quest: "Camera Work in the Depths"
+1|Side Quest: "Today's Menu"
+1|Side Quest: "Fell into a Well"
+1|Side Quest: "Horse-Drawn Dreams"
+1|Side Quest: "Meat For Meat"
+1|Side Quest: "The Abandoned Laborer"
+1|Side Quest: "The Heroines' Secret"
+1|Side Quest: "The Ancient City Gorondia!"
+1|Side Quest: "Dantz's Prize Cows"
+1|Side Quest: "Manny's Beloved"
+1|Side Quest: "Photographing a Chuchu"
+1|Side Quest: "Crossing the Cold Pool"
+1|Side Quest: "The Blocked Cave"
+1|Side Quest: "Master The Vehicle Prototype"
+1|Side Quest: "A Trip Through History"
+1|Side Quest: "Codgers' Quarrel"
+1|Side Quest: "Follow The Cuccos"
+1|Side Quest: "Gloom-Borne Illness"
+1|Side Quest: "Out of the Inn"
+1|Side Quest: "Decorate With Passion"
+1|Side Adventure: "Bring Peace to Hyrule Field!"
+1|Defeat a Boss Bokoblin
+1|Defeat 5 Horroblins
+1|Discover 5 chasms
+1|Autobuild
+1|Yiga Clan Schematic
+1|5 Muddle Buds
+1|5 Puffshrooms
+1|Naydra's Horn
+1|Farosh's Horn
+1|Dinraal's Horn
+1|Red Chuchu Jelly
+1|Ice Keese Eyeball
+1|3 Like Like Stones
+1|Gibdo Bone
+1|5 Aerocuda Eyeballs
+1|Proving Grounds shrine
+1|4 Lightroots
+1|3 Skyview Towers
+1|Fuse a Rocket to a shield
+1|Fuse a Bomb Flower to a shield
+1|Fuse a Hudson Sign to a shield
+1|Fairy
+1|10 unique Zonai devices
+1|10 Hightail Lizards
+1|10 Hylian Rice
+1|10 Sticky Lizards
+1|Take a selfie with Sidon
+1|Take a picture of a Frost Gleeok
+1|Take a picture of a Flame Gleeok
+1|Take a picture of a Thunder Gleeok
+1|Take a picture of a Lynel
+1|Take a picture of a Frox
+1|4 Gerudo Highlands region koroks
+1|4 Ulri Mountain region koroks
+1|4 Gerudo Canyon region koroks
+1|4 Popla Foothills region koroks
+1|4 Rabella Wetlands region koroks
+1|4 Eldin Canyon region koroks
+1|4 Upland Zorana region koroks
+1|4 Sahasra Slope region koroks
+1|4 Mount Lanyru region koroks
+1|4 Rospro Pass region koroks
+1|4 Pikida Stonegrove region koroks
+1|5 Lookout Landing region koroks
+1|5 Hyrule Field region koroks
+1|5 Lindor's Brow region koroks
+1|5 Thyphlo Ruins region koroks
+2|Awaken a Great Fairy
+2|Obtain a 60 power weapon
+2|Gourmet Spiced Meat Skewer
+2|Crab Stir-Fry
+2|Curry Rice
+2|Phantom Greaves
+2|Red-Dyed Hylian Hood
+2|Yellow-Dyed Hylian Hood
+2|White-Dyed Hylian Hood
+2|Green-Dyed Hylian Hood
+2|Blue-Dyed Hylian Hood
+2|Purple-Dyed Hylian Hood
+2|Side Quest: "WANTED: Stone Talus"
+2|Side Quest: "The Horse Guard's Request"
+2|Side Quest: "A Picture for Outskirt Stable"
+2|Side Quest: "A Picture for Riverside Stable"
+2|Side Quest: "A Picture for New Serenne Stable"
+2|Side Quest: "A Picture for Tabantha Stable"
+2|Side Quest: "A Picture for Dueling Peaks Stable"
+2|Side Quest: "A Picture for East Akkala Stable"
+2|Side Quest: "A Picture for Foothill Stable"
+2|Side Quest: "A Picture for the Closed Stable I"
+2|Side Quest: "A Picture for the Closed Stable II"
+2|Side Quest: "A Picture for Lakeside Stable"
+2|Side Quest: "A Picture for Highland Stable"
+2|Side Quest: "Eldin's Colossal Fossil"
+2|Side Quest: "Strongest In The World"
+2|Side Quest: "The Gathering Pirates"
+2|Side Quest: "Heat-Endurance Contest!"
+2|Side Quest: "Cold-Endurance Contest!"
+2|Side Quest: "The Great Tumbleweed Purge"
+2|Side Quest: "Disaster in Gerudo Canyon"
+2|Side Quest: "Piaffe, Packed Away"
+2|Side Quest: "Amber Dealer"
+2|Side Quest: "Simmerstone Springs"
+2|Side Quest: "The Ancient City Gorondia?"
+2|Side Quest: "A Bottled Cry for Help"
+2|Side Quest: "Teach Me A Lesson I"
+2|Side Quest: "A New Champion's Tunic"
+2|Side Quest: "The Tarrey Town Race is On!"
+2|Side Quest: "Lost In The Dunes"
+2|Side Adventure: "Bring Peace to Eldin!"
+2|Side Adventure: "The Hunt for Bubbul Gems!"
+2|Defeat a Flux Construct
+2|Defeat a Frox
+2|Defeat a Hinox
+2|Defeat a Red-Maned Lynel
+2|Light Dragon's Horn
+2|4 Bubbul Gems
+2|Yansamin Shrine
+2|Gikaku Shrine
+2|Ijo-o Shrine
+2|Ganos Shrine
+2|Ga-ahisas Shrine
+2|Taunhiy Shrine
+2|Mayasiar Shrine
+2|Natak Shrine
+2|Kadaunar Shrine
+2|Taninoud Shrine
+2|Tenbez Shrine
+2|Jinadok Shrine
+2|Rakashog Shrine
+2|Kumamayn Shrine
+2|Sihajog Shrine
+2|Mayanas Shrine
+2|Ukoojisi Shrine
+2|Josiu Shrine
+2|3 Rubies
+2|3 Topaz
+2|3 Sapphires
+2|10 Amber
+2|10 Flint
+2|Ember Headdress
+2|Ember Shirt
+2|Ember Trousers
+2|Frostbite Headdress
+2|Flamebreaker Helm
+2|Flamebreaker Armor
+2|Flamebreaker Boots
+2|Zora Helm
+2|Zora Armor
+2|Zora Greaves
+2|Climbing Boots
+2|Soldier's Helm
+2|Stealth Mask
+2|Stealth Chest Guard
+2|Zonaite Waistguard
+2|Zonaite Shin Guards
+2|Hood of the Depths
+2|Tunic of the Depths
+2|Gaiters of the Depths
+3|Side Quest: "WANTED: Hinox"
+3|Side Quest: "WANTED: Molduga"
+3|Side Quest: "Cash In on Ripened Flint"
+3|Side Quest: "Hebra's Colossal Fossil"
+3|Side Quest: "Seeking The Pirate Hideout"
+3|Side Quest: "The Missing Owner"
+3|Side Quest: "Homegrown in Hateno"
+3|Side Quest: "Teach Me A Lesson II"
+3|Side Quest: "Uma's Garden"
+3|Side Quest: "Gerudo's Colossal Fossil"
+3|Side Quest: "The Secret Room"
+3|Side Quest: "Walton's Treasure Hunt"
+3|Side Quest: "Whirly Swirly Things"
+3|Side Adventure: "Gourmets Gone Missing"
+3|Side Adventure: "The Beckoning Woman"
+3|Side Adventure: "White Goats Gone Missing"
+3|Side Adventure: "The Beast and the Princess"
+3|Side Adventure: "Zelda's Golden Horse"
+3|Side Adventure: "For Our Princess!"
+3|Side Adventure: "The All-Clucking Cucco"
+3|Side Adventure: "The Blocked Well"
+3|Side Adventure: "An Eerie Voice"
+3|Side Adventure: "A Call From the Depths"
+3|Side Adventure: "Mattison's Independence"
+3|Side Adventure: "The Search for Koltin"
+3|Side Adventure: "Legend of the Great Sky Island"
+3|Save Lurellin Village
+3|Defeat a Blue-Maned Lynel
+3|Cap of the Wind
+3|Tunic of the Wind
+3|Trousers of the Wind
+3|Biggeron Sword
+3|Cap of the Wild
+3|Tunic of the Wild
+3|Trousers of the Wild
+3|Mask of Awakening
+3|Tunic of Awakening
+3|Trousers of Awakening
+3|Cap of Time
+3|Tunic of Time
+3|Trousers of Time
+3|Midna's Helm
+3|Tingle's Hood
+3|Tingle's Shirt
+3|Tingle's Tights
+3|Fierce Deity Mask
+3|Fierce Deity Armor
+3|Fierce Deity Boots
+3|Cap of the Hero
+3|Tunic of the Hero
+3|Trousers of the Hero
+3|Cap of Twilight
+3|Tunic of Twilight
+3|Trousers of Twilight
+3|Cap of the Sky
+3|Tunic of the Sky
+3|Trousers of the Sky
+3|Climber's Bandana+
+3|Climbing Gear+
+3|Frostbite Shirt+
+3|Frostbite Trousers+
+3|Soldier's Armor+
+3|Soldier's Greaves+
+3|Stealth Tights+
+3|Zonaite Helm+
+3|3 Gerudo Highlands region shrines
+3|3 Ulri Mountain region shrines
+3|3 Gerudo Canyon region shrines
+3|3 Popla Foothills region shrines
+3|3 Rabella Wetlands region shrines
+3|3 Eldin Canyon region shrines
+3|3 Upland Zorana region shrines
+3|3 Sahasra Slope region shrines
+3|3 Mount Lanyru region shrines
+3|3 Rospro Pass region shrines
+3|3 Pikida Stonegrove region shrines
+3|4 Lookout Landing region shrines
+3|4 Hyrule Field region shrines
+3|4 Lindor's Brow region shrines
+3|4 Thyphlo Ruins region shrines
+4|Side Adventure: "The Yiga Clan Exam"
+4|Side Quest: "The Mother Goddess Statue"
+4|Side Quest: "Unknown Sky Giant"
+4|Side Quest: "Unknown Three-Headed Monster"
+4|Side Quest: "Unknown Huge Silhouette"
+4|Side Quest: "Feathered Fugitives"
+4|Side Quest: "Gleeok Guts"
+4|Defeat a Flame Gleeok
+4|Defeat a Frost Gleeok
+4|Defeat a Thunder Gleeok
+4|Defeat a White-Maned Lynel
+4|Defeat a Phantom Ganon
+4|Majora's Mask
+4|Evil Spirit Mask
+4|Evil Spirit Armor (Chest)
+4|Evil Spirit Greaves
+5|Master Sword
+5|Side Adventure: "Master Kogha of the Yiga Clan"
+5|Side Adventure: "Infiltrating the Yiga Clan"
+5|Main Quest: "Riju of Gerudo Town"
+5|Main Quest: "Sidon of the Zora"
+5|Main Quest: "Tulin of Rito Village"
+5|Main Quest: "Yunobo of Goron City"
+5|Side Quest: "Spotting Spot"
+5|Side Quest: "The Incomplete Stable"
+5|Side Quest: "Rock Roast or Dust"
+5|Side Quest: "The Blue Stone"
+5|Side Quest: "Kaneli's Flight Training"
+5|Side Quest: "The Mysterious Eighth"
+5|Side Quest: "Dalia's Game"
+5|Side Quest: "To The Ruins!"
+5|Side Quest: "Treasure Of The Gerudo Desert"
+5|Side Quest: "Moon-Gazing Gorons"
+5|Side Quest: "The Hidden Treasure at Lizard Lakes"
+6|Obtain a Champion's Weapon
+6|Defeat a King Gleeok
+6|Side Quest: "Village Attacked by Pirates"
+7|Main Quest: "Find Princess Zelda"
